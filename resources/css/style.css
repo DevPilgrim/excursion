@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: verdana, Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.header--main {
+  font-weight: normal;
+  font-size: 50px;
+  color: "white";
+  
+}
